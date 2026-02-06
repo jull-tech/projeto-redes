@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html , body {
+    background: url('../imagens/milad-fakurian-iFu2HILEng8-unsplash.jpg') top center no-repeat fixed;
+    background-size: cover;
+}
+
+main {
+    height: 100vh;
+    position: relative;
+}
+
+div#celular {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 311px;
+    height: 627px;
+    
+    background: url('../imagens/frame-iphone.png') no-repeat fixed;
+}    
+    
