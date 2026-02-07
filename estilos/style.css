@@ -24,7 +24,7 @@ div#celular {
     width: 311px;
     height: 627px;
     
-    background: url('../imagens/frame-iphone.png') no-repeat fixed;
+    background: url('../imagens/frame-iphone.png') no-repeat ;
 }
 
 iframe.tela {
