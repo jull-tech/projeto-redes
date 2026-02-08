@@ -6,6 +6,6 @@
 body {
     width: 100vw;
     height: 100vh;
-    background: lightblue url('/imagens/tela-home.jpg') top center no-repeat;
+    background: rgb(77, 77, 77) url('/imagens/tela-home.jpg') no-repeat;
     background-size: contain;
 }
