@@ -71,3 +71,20 @@ div#redes img:active {
     transform: scale(1.0);
     transition: transform 0.1s, border;
 }
+
+div#power {
+    background-color: white;
+    box-shadow: 0px 5px 7px rgba(0, 0, 0, 0.384);
+    width: 75px;
+    border-radius: 0px 30px 30px 0px ;
+
+}
+
+div#power img {
+    position: relative;
+    display: inline-block;
+    top: ;
+    left: ;
+    width: 60px;
+    padding: 5px;
+}
