@@ -37,7 +37,7 @@ iframe.tela {
 
 div#redes {
     position: relative;
-    top: 15%;
+    top: 2%;
     left: 94%;
 
     background-color: white;
@@ -77,14 +77,14 @@ div#power {
     box-shadow: 0px 5px 7px rgba(0, 0, 0, 0.384);
     width: 75px;
     border-radius: 0px 30px 30px 0px ;
+    position: relative;
+    display: inline-block;
+    top: 12px;
+    left: 0px ;
 
 }
 
 div#power img {
-    position: relative;
-    display: inline-block;
-    top: ;
-    left: ;
     width: 60px;
     padding: 5px;
 }
